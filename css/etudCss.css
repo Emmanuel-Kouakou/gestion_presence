@@ -1,0 +1,48 @@
+
+.espace {
+
+	margin-top: 20px;
+	padding: 10px;
+
+}
+
+.coul {
+    padding: 10px;
+	background: aliceblue;
+
+}
+
+.coulnav {
+
+   
+	background: darkseagreen;
+}
+
+button {
+
+	color: white;
+}
+
+#map { height: 180px; 
+}
+
+.container{ 
+ 
+    display: flex; 
+ 
+    flex-direction: row; 
+ 
+}
+
+.boxlayout { 
+ 
+ 
+    display: inline-block; 
+ 
+    vertical-align: top; 
+ 
+}
+
+
+
+
